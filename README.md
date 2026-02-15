@@ -11,7 +11,7 @@
 - 💼 &nbsp; Completed internship at **Sumago Infotech** in **Full Stack Development using Java**
 - 🎯 &nbsp; Completed courses: **C Programming**, **DSA using C**, **C++**, **Core Python**
 - 🚀 &nbsp; I love exploring new technologies and building impactful solutions
-- ☕ &nbsp; A Good Retro Coffee + coding = perfect combo!
+- ☕ &nbsp; A Good Retro Qawali + coding = perfect combo!
 
 ---
 
